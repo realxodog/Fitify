@@ -55,11 +55,11 @@ const Hero = () => {
           The ultimate app for gymnasts of all levels. Learn new skills, track your progress, and connect with other gymnasts around the world.
         </p>
         <div className="flex items-center mt-8">
-          <a href="https://play.google.com/store/games?device=windows&pli=1" className="flex items-center bg-gray-900 text-white px-4 py-2 rounded mr-4 hover:bg-gray-800 transition">
+          <a href="https://play.google.com/store/games?device=windows&pli=1" target='_blank' className="flex items-center bg-gray-900 text-white px-4 py-2 rounded mr-4 hover:bg-gray-800 transition">
             <FaGooglePlay className="text-xl mr-2" />
             Download on Google Play
           </a>
-          <a href="https://www.apple.com/retail/" className="flex items-center bg-gray-900 text-white px-4 py-2 rounded hover:bg-gray-800 transition">
+          <a href="https://www.apple.com/retail/" target='_blank' className="flex items-center bg-gray-900 text-white px-4 py-2 rounded hover:bg-gray-800 transition">
             <FaApple className="text-xl mr-2" />
             Download on Apple Store
           </a>
