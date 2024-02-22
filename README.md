@@ -7,7 +7,7 @@ Fitify is a mobile fitness app that helps you stay fit and healthy. You can choo
 - **Workouts**: Browse and select from a variety of workouts, such as cardio, strength, yoga, and more. You can also create your own custom workouts.
 - **Progress**: Monitor your fitness level, calories burned, and workout history. You can also set your goals and see how far you are from achieving them.
 - **Social**: Connect with your friends and other Fitify users. You can share your workouts, results, and tips with them. You can also compete with them on the leaderboard and earn badges.
-- **Website**: Visit the Fitify [website](https://www.fitify-alpha.vercel.app) to learn more about the app and the team behind it.
+- **Website**: Visit the Fitify [website](https://fitify-alpha.vercel.app/) to learn more about the app and the team behind it.
 
 ## Installation 🪛
 
