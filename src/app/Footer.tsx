@@ -44,7 +44,7 @@ const Footer = () => {
       </div>
       
       <div className="container mx-auto text-center mt-4">
-        <p className="text-xs">© 2023 Fitify. All rights reserved.</p>
+        <p className="text-xs">© 2024 Fitify. All rights reserved.</p>
         <p className="text-xs"><Link href="/terms" className="hover:text-gray-300">Terms of Service</Link></p>
       </div>
     </footer>
